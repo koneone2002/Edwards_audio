@@ -15,7 +15,7 @@
     "url": "git+https://github.com/koneone2002/Edwards_audio.git"
   },
   "engines": {
-    "node": "10.11.0"
+    "node": "10.14.1"
   },
   "author": "koneone2002",
   "license": "ISC",
